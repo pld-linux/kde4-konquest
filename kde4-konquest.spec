@@ -6,12 +6,12 @@ Summary:	KDE version of Gnu-Lactic Konquest
 Summary(pl.UTF-8):	Podbój galaktyki - wersja KDE gry Gnu-Lactic Konquest
 Summary(pt_BR.UTF-8):	Jogo espacial de estratégia
 Name:		kde4-%{orgname}
-Version:	4.12.3
+Version:	4.12.4
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	39a2c1777c92dd9673304c1ac6a2e38e
+# Source0-md5:	9bfb5bc1f52d4b08a4086e7bd3ffd593
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
